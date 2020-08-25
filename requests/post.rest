@@ -1,7 +1,7 @@
-POST https://obscure-dawn-29119.herokuapp.com/api/persons
+POST http://localhost:3001/api/persons
 Content-Type: application/json
 
 {
-    "name": "daa34",
-    "number": "513311"
+    "name": "jejeejjeejj",
+    "number": "129992229948489"
 }

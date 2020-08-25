@@ -1,1 +1,1 @@
-https://obscure-dawn-29119.herokuapp.com/api/persons
+https://obscure-dawn-29119.herokuapp.com/
